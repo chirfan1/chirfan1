@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advancing Python**
 
-- 👨‍💻 All of my projects are available at [chirfan1-chirfan1](chirfan1-chirfan1)
+- 👨‍💻 All of my projects are available at [chirfan1](chirfan1)
 
 - 💬 Ask me about **Python**
 
