@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/chirfan_9" target="blank"><img src="https://img.shields.io/twitter/follow/chirfan_9?logo=twitter&style=for-the-badge" alt="chirfan_9" /></a> </p>
 
-- 🌱 I’m currently learning **Advancing Python**
+- 🌱 I’m currently learning **advanced Python**
 
 - 👨‍💻 All of my projects are available at [chirfan1](chirfan1)
 
