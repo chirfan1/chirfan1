@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chirfansyah</h1>
 <h3 align="center">Passionate Software And Back-End Engineer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Python, Java, and MySQL. Always eager to learn and take on new challenges in the tech world.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chirfan1&label=Profile%20views&color=0e75b6&style=flat" alt="chirfan1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="shadirmuhammedh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chirfan_9" target="blank"><img src="https://img.shields.io/twitter/follow/chirfan_9?logo=twitter&style=for-the-badge" alt="chirfan_9" /></a> </p>
 
 - 🌱 I’m currently learning **Advancing Python**
 
