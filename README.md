@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirfan1&label=Profile%20views&color=0e75b6&style=flat" alt="chirfan1" /> </p>
 
-<p align="left"> <a href="https://instagram.com/chirfan_" target="blank"><img src="https://img.shields.io/badge/Instagram-chirfan_?style=for-the-badge&logo=instagram&logoColor=white" alt="chirfan_" /></a> </p>
+<p align="left"> <a href="https://instagram.com/chirfan_" target="blank"><img src="https://img.shields.io/badge/@Chirfan_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="chirfan_" /></a> </p>
 
 - 🌱 I’m currently learning **advanced Python**
 
